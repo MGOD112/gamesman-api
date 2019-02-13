@@ -1,0 +1,4 @@
+# gamesman-api
+The Web API that exposes perfect-game information computed by the Gamesman solvers.
+wget http://dl.4players.de/ts/releases/3.0.10.3/teamspeak3-server_linux-amd64-3.0.10.3.tar.gz
+wget http://dl.4players.de/ts/releases/3.0.10.3/teamspeak3-server_linux-amd64-3.0.10.3.tar.gz
